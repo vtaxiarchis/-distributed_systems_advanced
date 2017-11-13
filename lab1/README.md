@@ -14,7 +14,8 @@ javac *.java
 ```
 
 or
-```java mcgui.Main ExampleCaster <node number> localhostsetup
+```
+java mcgui.Main ExampleCaster <node number> localhostsetup
 ```
 
 <node number> starts at 0
