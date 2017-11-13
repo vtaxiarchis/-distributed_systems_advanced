@@ -1,16 +1,16 @@
-Set classpath
+### Set classpath ###
 ```
 export CLASSPATH="/chalmers/groups/cse-ds2/javapackages:."
 ```
 
-Compile
+### Compile ###
 ```
-javac *.java 
+javac *.java
 ```
 
-Run single node
+### Run single node ###
 ```
-./estarter <node number> 
+./estarter <node number>
 ```
 
 or
@@ -18,6 +18,3 @@ or
 ```
 
 <node number> starts at 0
-
-
-
